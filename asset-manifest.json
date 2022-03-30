@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MiMobile/static/css/main.a0f1be65.chunk.css",
+    "main.js": "/MiMobile/static/js/main.b44368b5.chunk.js",
+    "main.js.map": "/MiMobile/static/js/main.b44368b5.chunk.js.map",
+    "runtime-main.js": "/MiMobile/static/js/runtime-main.a99b5091.js",
+    "runtime-main.js.map": "/MiMobile/static/js/runtime-main.a99b5091.js.map",
+    "static/css/2.081f420c.chunk.css": "/MiMobile/static/css/2.081f420c.chunk.css",
+    "static/js/2.f5bca189.chunk.js": "/MiMobile/static/js/2.f5bca189.chunk.js",
+    "static/js/2.f5bca189.chunk.js.map": "/MiMobile/static/js/2.f5bca189.chunk.js.map",
+    "index.html": "/MiMobile/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/MiMobile/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.a0f1be65.chunk.css.map": "/MiMobile/static/css/main.a0f1be65.chunk.css.map",
+    "static/js/2.f5bca189.chunk.js.LICENSE.txt": "/MiMobile/static/js/2.f5bca189.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a99b5091.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.f5bca189.chunk.js",
+    "static/css/main.a0f1be65.chunk.css",
+    "static/js/main.b44368b5.chunk.js"
+  ]
+}
